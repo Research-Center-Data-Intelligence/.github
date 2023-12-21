@@ -8,7 +8,7 @@ The Research Institute Data Intelligence follows Hevner's research methodology, 
 
 ## What does Research Institute Data Intelligence do?
 
-Research Institute Data Intelligence is a research institute consisting of curious faculty researchers from the Technology domain at Zuyd University of Applied Sciences. They delve into the developments in the world of data intelligence and applied artificial intelligence. By developing socially and regionally relevant innovations, the institute strengthens the innovation capacity of the (EU) region. Sharing knowledge in the field of applied artificial intelligence contributes to this goal.
+Research Institute Data Intelligence is a research institute consisting of curious faculty researchers from the Technology domain at Zuyd University of Applied Sciences. They delve into the developments in the world of data intelligence and applied AI. By developing socially and regionally relevant innovations, the institute strengthens the innovation capacity of the (EU) region. Sharing knowledge in the field of applied AI contributes to this goal.
 
 ## What does Research Institute Data Intelligence aim to achieve?
 
@@ -20,7 +20,7 @@ Looking ahead, Research Institute Data Intelligence recognizes a challenge in th
 
 ## Collaboration
 
-RIDI collaborates with three key stakeholders in all its activities:
+Research Institute Data Intelligence collaborates with three key stakeholders in all its activities:
 
 1. Students (mainly but not exclusively from Zuyd University of Applied Sciences) through the DI-Lab.
 2. (EU) Regional organizations involved in our education or research.
@@ -38,7 +38,7 @@ Join our communication channels to stay updated on the latest discussions, annou
 
 ## Documentation and Repository Management Guidelines
 
-To ensure effective knowledge transfer and organization, all code and documentation should be transferred through this GitHub organization. You are required to create a "Docs" folder within the project repository. This "Docs" folder will serve as a centralized hub for all project-related documents, including the extended abstract, poster, and infographic if applicable.
+To ensure effective knowledge transfer and organization within the Research Institute, all code and documentation should be stored in this GitHub organization. You are required to create a "Docs" folder within the project repository. This "Docs" folder will serve as a centralized hub for all project-related documents, including the extended abstract, poster, and infographic if applicable.
 
 ### Repository Structure
 
