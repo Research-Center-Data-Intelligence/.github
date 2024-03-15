@@ -38,13 +38,7 @@ Join our communication channels to stay updated on the latest discussions, annou
 
 ## Documentation and Repository Management Guidelines
 
-To ensure effective knowledge transfer and organization within the Research Institute, all code and documentation should be stored in this GitHub organization. You are required to create a "Docs" folder within the project repository. This "Docs" folder will serve as a centralized hub for all project-related documents, including the extended abstract, poster, and infographic if applicable.
-
-### Repository Structure
-
-- **Docs:** This directory is designated for housing all project documentation. Place the extended abstract, poster, infographic, and any other relevant documents in this folder. This approach facilitates easy access to the entire project in one central location.
-
-- **Other Directories and Files:** Fill the repository with the other code-related files and directories as you usually would.
+To ensure effective knowledge transfer and organization within the Research Institute, all code and documentation should be stored in this GitHub organization. You are required to include a readme.md file.
 
 ### Readme.md
 
