@@ -36,9 +36,9 @@ We invite you to explore our repositories and join our community in advancing th
 
 Join our communication channels to stay updated on the latest discussions, announcements, and events within the Research Institute Data Intelligence community.
 
-## Documentation and Repository Management Guidelines
+## Repository Management Guidelines
 
-To ensure effective knowledge transfer and organization within the Research Institute, all code and documentation should be stored in this GitHub organization. You are required to include a readme.md file.
+To ensure effective knowledge transfer and organization within the Research Institute, all code should be stored in this GitHub organization. You are required to include a readme.md file.
 
 ### Readme.md
 
