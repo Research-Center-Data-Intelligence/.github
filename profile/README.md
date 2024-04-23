@@ -48,4 +48,4 @@ Each GitHub repository must include a readme.md file, functioning as a user-frie
 
 **Happy coding!**
 
-[Research Institute Data Intelligence](https://dataintelligence.zuyd.nl/)
+[Research Institute Data Intelligence](https://dilab.nl/)
