@@ -4,7 +4,7 @@
 
 Welcome to the GitHub Organization of the Research Institute Data Intelligence. This organization comprises inquisitive faculty researchers from Zuyd University of Applied Sciences, investigating the latest insights in Data Intelligence and, in particular, applied artificial intelligence (AI).
 
-The Research Institute Data Intelligence follows Hevner's research methodology, Design Science Research, with a focus on three key research areas: AI in healthcare, AI in industry, and Responsible AI. Stay updated on current developments through our LinkedIn page and explore new videos on YouTube.
+The Research Institute Data Intelligence follows Hevner's research methodology, Design Science Research. Stay updated on current developments through our LinkedIn page and explore new videos on YouTube.
 
 ## What does Research Institute Data Intelligence do?
 
